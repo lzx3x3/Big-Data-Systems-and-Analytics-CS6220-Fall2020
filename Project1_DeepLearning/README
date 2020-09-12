@@ -1,0 +1,1 @@
+In this programming assignment, I performed a binary CNN classifier on two datasets of patients’ X-ray images. The classification results help differentiate pneumonia X-ray images from normal X-ray images, which is useful for covid-19 clinical diagnosis.
