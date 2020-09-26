@@ -1,0 +1,98 @@
+restaurant_id,restaurant_name,neighborhood,review_count,price,type,average_rating
+_IFMCrheTi12RqiR7jvJUg,Little Rey,Westside / Home Park,225,2,mexican,4
+0qJXSTFBnNoh5lMD3LgE0Q,Bacchanalia,Westside / Home Park,660,4,american,4.5
+0ukhgBeLATOo8b8lDobRGg,Roasters,Westside / Home Park,369,2,american,4
+14nIlMhxTXWnJg0Glrr-PQ,Top Spice,Morningside / Lenox Park,471,2,asian,4
+1i63faxXI1TQ7pNlLp3IPQ,Cypress Street Pint & Plate,Westside / Home Park,1244,2,american,4
+1q3u0GmFKRKPV_ikCiCbUw,Gunshow,Ormewood Park,1180,3,american,4
+1VAX8KygRWcloSuv5x5o5A,Superica,Westside / Home Park,909,2,mexican,4
+3CrAvu81KXQ31hdiL5_HTw,Mission + Market,West Paces Ferry / Northside,187,2,american,4
+4fzjAjzLCnjWfQP1sOHiwA,Bones,West Paces Ferry / Northside,939,4,meat,4.5
+57d0Gmx4JKuKQWyJYu0yfg,JINYA Ramen Bar,West Paces Ferry / Northside,795,2,asian,4.5
+59qvYQ6joOWJpwR3kfy7jQ,Agatha's A Taste Of Mystery,Westside / Home Park,161,4,american,4
+5enPbMFK_ZAtoVzlU0dtFg,Alma Cocina Buckhead,West Paces Ferry / Northside,17,,mexican,4.5
+5Z0M3VkIccVWVKsXDwUgoQ,PaoPao Ramen Factory And Bar,Morningside / Lenox Park,110,2,asian,4
+6VTj9WahLNw8i6bKAA7kvw,Yard House - Takeout & Delivery Available,Westside / Home Park,1125,2,american,3
+6wGHem2o7migh4syWmmB8A,Ginya Izakaya,Westside / Home Park,440,2,asian,4
+6yqPYHtG4LpOVushEzrxXw,Grub Burger Bar,Morningside / Lenox Park,527,2,fastfood,4
+7895YHS5qGu03R-C6aYg9g,The Optimist,Westside / Home Park,1602,3,meat,4
+7O7qSDSVwudKkhoIqhoNwQ,Cooks & Soldiers,Westside / Home Park,578,2,european,4.5
+9TLfCS60bIu5DLY4JBfNLw,Lazy Betty,Poncey - Highland,92,4,american,4.5
+9VWaP_2svx5SYdAisNkRYQ,Bar-Bacoa,Westside / Home Park,133,2,european,4.5
+9x8tQvdczbrNaTsQJWRiCQ,Ponko Chicken,Westside / Home Park,178,2,asian,4.5
+9XUI9R55hL5Jb8IVeArs5g,Masti fun Indian Street Food,Morningside / Lenox Park,449,2,asian,4
+ALYQ-uM_uMkKbkXlhWcgbQ,Fat Matt's Rib Shack,Westside / Home Park,2107,2,meat,4
+ApwmEiStq9aP9-Tf2xfVtA,Gus's World Famous Fried Chicken,Westside / Home Park,1265,2,american,4
+bAybZImsqUwinMrzZlzVIQ,True Food Kitchen - Temporarily Closed,West Paces Ferry / Northside,1216,2,specificDiet,4
+bhGLJ3MdqAKmLHANNH-L3g,Ecco Buckhead,West Paces Ferry / Northside,87,2,european,4
+bJ7CAbc32-M5h35YiAeSIw,Machu Picchu Restaurant,Morningside / Lenox Park,5,,american,5
+bP6goJODwRnM3AVy45Kn9w,Papi's Cuban & Caribbean Grill,Westside / Home Park,950,2,caribbean,4
+bsjyXlPMSPHFLKf89mTvbw,Triple Jays Pizza Bar,Westside / Home Park,17,,fastfood,4.5
+bSmQbw5A-WA0TtmFc1NTpQ,Big Dave's Cheesesteaks,Westside / Home Park,709,2,meat,4
+BSUDAiXd50PAkfFAztVpDw,Aviva by Kameel,Westside / Home Park,1482,2,mediterranean,5
+BWcserrn-VAvcWufKnsP_Q,Twisted Soul Cookhouse & Pours,Westside / Home Park,535,2,american,4
+COgw5a3B_fwmN0BbZObJwg,Urban Wu,West Paces Ferry / Northside,208,2,asian,4
+CxQ1m2iY4wQpXC64tSfWgQ,Antico Pizza,Westside / Home Park,3038,2,fastfood,4
+dfL1KYHtcs6YaFVx-nZTdQ,Whiskey Bird,Reynoldstown,328,2,american,4.5
+DTALvZKBJH8XVAKfcQseYQ,5Church Atlanta,Westside / Home Park,737,2,american,4
+e1RoEC5uvzXnLXbjuK3ZSg,Cafe Agora Midtown,Westside / Home Park,286,2,mediterranean,4.5
+eG-UO83g_5zDk70FIJbm2w,South City Kitchen Midtown,Westside / Home Park,2563,2,american,4.5
+eMJGDVzTH7mbGNWIfz6jcQ,La Tavola Trattoria,Westside / Home Park,487,2,european,4.5
+EmJOkTKIwgm7QJbls7hN3w,Seven Lamps,West Paces Ferry / Northside,860,2,american,4
+eqFA5BJ5NDjZ4TaUXJazfg,Canoe,West Paces Ferry / Northside,1777,3,american,4.5
+ERVKNes7rXoQg4J0gWhMdg,Forza Storico,Westside / Home Park,65,,european,4
+flrsv0dum7T68jy7QSDRKw,Marcel,Westside / Home Park,548,4,meat,4.5
+g0KkQmGXCtxkzHWoYEQa4A,Rina,Westside / Home Park,43,2,mideastern,4.5
+g9YfGaCb49yrLb7FpD9A7g,La Grotta Ristorante Italiano,Westside / Home Park,263,3,european,4.5
+GgwjulR_-ik36RnEr_MVug,Torched Hop Brewing,Westside / Home Park,370,2,bar,4.5
+GJxFtnTqTiokFedNrW9iDQ,Atlanta Breakfast Club,Westside / Home Park,3364,2,breakfast,4.5
+HdOxf-muJnhpBaV_8J65tg,Chama Gaucha Brazilian Steakhouse,West Paces Ferry / Northside,643,3,meat,4.5
+hVL_gLKPoCTMlS5Pux_XWg,Argosy,Ormewood Park,620,2,fastfood,4
+iNpKyGdjCb40PECLpyF-rg,Tuza Taco,Westside / Home Park,144,2,mexican,4.5
+jbKI2uM4nrRIlBT2sMX3MQ,Grindhouse Killer Burgers,Westside / Home Park,995,2,fastfood,4
+JfgsCMKJOCMg1O2iK4ObWA,Sweet Georgia's Juke Joint,Westside / Home Park,1256,2,american,3.5
+jh07n3CFoc8gskZ8F-2g9w,Farm Burger,West Paces Ferry / Northside,700,1,fastfood,4
+Jn-F5K1Ow_zaC0Sps7NC1Q,Public School 404,Westside / Home Park,496,2,bar,4
+JtIt-VshqofckWkbBG6cRA,Louisiana Bistreaux Buckhead,West Paces Ferry / Northside,109,2,american,4.5
+jx0yeEipLwhKDlwWcyGt9Q,26 Thai Kitchen & Bar,Westside / Home Park,611,2,asian,4.5
+K10Bdyt8gtwXNOoj87ZvuQ,Saltyard,Westside / Home Park,434,2,american,4
+Kcva2t7e6Ukpb5vMvkdc2w,La Fonda Latina,Westside / Home Park,440,2,caribbean,4
+KD3vnYvuHpfC_sYeWkgUTA,Poor Hendrix,Lake Claire,174,2,american,4.5
+kGb2Rnh3Uwni5k0qQY-05Q,Nuevo Laredo Cantina,Westside / Home Park,1013,2,mexican,4
+KqHES_Rr8btKCdz4RmpR_Q,Grana,Westside / Home Park,8,,american,5
+kzXrQKJpN2JyLd68iwH3hg,Little Bangkok,Morningside / Lenox Park,737,2,asian,4
+LyizNBLFLB4Qkx_0_8_BaQ,Der Biergarten,Westside / Home Park,631,2,european,4
+MurRZhxMFipelvK2zzHRaw,The Iberian Pig,West Paces Ferry / Northside,143,,european,4.5
+OD97PIrms4dSxVbdT1T7Bw,The Garden Room,West Paces Ferry / Northside,60,,american,4
+oGshUJhbJsjsnaQZXJaDNA,Waikikie Hawaiian BBQ,Morningside / Lenox Park,548,2,meat,4
+Or5vdm-okztVKK8-3Wm1FQ,Barcelona Inman Park,Westside / Home Park,1153,2,european,4
+Pl2c7HLD9UgFL2zHP0cZVQ,Tabla,Westside / Home Park,499,2,asian,4
+Qd6r9d5EcIRY3bWRW7-rBg,Heirloom Market BBQ,Buckhead,1554,2,meat,4.5
+qJAoMZ773AMxN3ewp8cbQA,Purnima Bangladeshi Cuisine,Buckhead,720,2,asian,4.5
+qTXYie0Phy8JbuOau4rTmg,Aziza,Westside / Home Park,55,,mideastern,4.5
+QW3anlt1nJ9aNkdQAV-Ifw,Old Lady Gang,Westside / Home Park,1778,2,american,3.5
+r0JxdG5StcD8eiHF9u01ZQ,Slutty Vegan,West End,639,2,specificDiet,4.5
+rNmAxOkEJ07_YHAxHKyH4Q,Hawkers Asian Street Fare,Westside / Home Park,268,2,asian,4
+S9NvWyHUPsuYK7ObMV43pA,Desta Ethiopian Kitchen,Morningside / Lenox Park,1658,2,african,4.5
+Slj9yz_RfDRqiMRH8VxUMQ,Amalfi Pizza,Westside / Home Park,698,2,fastfood,4
+SuA90sXOd6Jw9W_Bz6P1RA,Holeman & Finch,Westside / Home Park,1341,2,bar,4
+TA1KUSCu8GkWP9w0rmElxw,FLIP burger boutique,Westside / Home Park,1856,2,fastfood,4
+tDv2qG4N7PsYLN0QYuuaZQ,Bulla Gastrobar,Westside / Home Park,420,2,european,4.5
+u-4wti774tFcYRLuQrnHEg,Fox Bros. Bar-B-Q,Poncey - Highland,3690,2,meat,4.5
+U-i6cq-yFRVJC4pIKSLX9Q,Poor Calvin's,Westside / Home Park,3158,2,asian,4.5
+uO4A77jXMPfZmlbf_52zRw,BoccaLupo,Westside / Home Park,539,2,european,4.5
+uZaT6J821lHMFrfrFno7lg,Herban Fix - Vegan Kitchen,Westside / Home Park,731,2,specificDiet,4.5
+v3Bj4U3WMuol_VLJLQpvRQ,Dat Fire Jerk Chicken,West End,269,2,caribbean,4
+V86AJK3xytBv2C0bwi9_Ow,La Pastorcita,Morningside / Lenox Park,369,1,mexican,4
+vFulipMlcFyN60_SyAhjyA,Twin Smokers BBQ,Westside / Home Park,914,2,meat,4
+vgUv079XkNbWOtBf3tYKnw,The Hungry Peach,Westside / Home Park,53,2,american,4.5
+vQgMPq9_YttFX6nau6PomA,Mamoun's Falafel,Westside / Home Park,67,2,mideastern,4.5
+WkN8Z2Q8gbhjjkCt8cDVxg,Two Urban Licks,Westside / Home Park,2637,2,bar,4
+WpC8T9oazzH7A7yR5e56Vg,gusto!,Westside / Home Park,438,1,american,4.5
+yNRCLu9ESXu9M9R-nO_fEQ,Ruby Chow's,Westside / Home Park,22,,asian,5
+yoHbWZBDmgHyl5oWMQRIoQ,WIN Indonesian Grill & Gastrobar,Westside / Home Park,94,2,asian,4.5
+yWsHawhAIt1rINn4U8s3kQ,Staplehouse,Westside / Home Park,254,4,american,4
+Z2qMwUhnGt_2pA9uQbS7Uw,The Vortex Bar And Grill - Midtown,Westside / Home Park,1710,2,fastfood,4
+z9oCxeqOKp2QMfM24m7bUw,Mary Mac's Tea Room,Westside / Home Park,3805,2,american,4
+ZdEohT36LcY3eKh4fJMGRQ,Cafe Agora,West Paces Ferry / Northside,700,2,asian,4
+ZKZGgOsRPpAjc9oMBT_uBw,Kinnotori Ramen Bar,Westside / Home Park,16,2,asian,4.5
