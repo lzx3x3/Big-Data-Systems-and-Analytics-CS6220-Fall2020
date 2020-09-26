@@ -1,0 +1,1 @@
+In this project, I developed a collaborative filtering-based recommender system for Yelp users. When users rated the restaurants where they have been to in Yelp app, their accounts have a record of their ratings. The recommender system can recommend new restaurants to a user by comparing this user’s similarity to other users and predicting his rating to a new restaurant.
